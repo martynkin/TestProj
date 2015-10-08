@@ -6,5 +6,6 @@ public class Runner {
 		//comment
 		//comment
 		sasasdasasdsad
+		вававава
 	}
 }
